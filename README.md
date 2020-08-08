@@ -12,3 +12,6 @@ $ bash price_usd_to_jpy.sh 100
 $
 ```
 
+## reference
+https://qiita.com/kawaz/items/274f2198a60021972bc0
+

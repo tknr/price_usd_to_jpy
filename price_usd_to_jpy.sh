@@ -17,7 +17,7 @@ PRICE_JPY=$PRICE_USD*$RATE
 PRICE=`echo $PRICE_JPY|bc -l`
 
 if [ $# -eq 1 ]; then
-  printf '%.0f yen' $PRICE
+  printf '%.0f yen\n' $PRICE
   exit 0
 fi
 

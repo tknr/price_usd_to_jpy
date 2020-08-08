@@ -2,7 +2,7 @@
 
 ## usage
 
-bash price_usd_to_jpy.sh [USD price] [mailaddress]
+bash price_usd_to_jpy.sh USD price [mailaddress]
 
 ## example
 
